@@ -1,0 +1,12 @@
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.csprojAssemblyReference.cache
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.Form1.resources
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.Properties.Resources.resources
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.csproj.GenerateResource.cache
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.csproj.CoreCompileInputs.cache
+C:\Users\Balazs\source\repos\Platformer\Platformer\bin\Debug\Platformer.exe.config
+C:\Users\Balazs\source\repos\Platformer\Platformer\bin\Debug\Platformer.exe
+C:\Users\Balazs\source\repos\Platformer\Platformer\bin\Debug\Platformer.pdb
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.exe
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.pdb
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.Form2.resources
+C:\Users\Balazs\source\repos\Platformer\Platformer\obj\Debug\Platformer.Form3.resources
